@@ -61,9 +61,9 @@ The project evolves from simple Machine Learning baselines to advanced **Multi-T
 5.  Run all cells.
 
 ## 👤 Author
-**[Your Name]**
-* **Role:** Data Scientist / Deep Learning Engineer
-* **Course:** Module 7: Deep Learning Assignment
+Sendhil Kumar 
+Data Scientist / Deep Learning Engineer
+Deep Learning Assignment
 
 ---
 *Created as part of an academic portfolio project.*
